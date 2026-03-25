@@ -1,16 +1,32 @@
-## Hi there 👋
+# Leonardo Ximenes
 
-<!--
-**ximenesleo/ximenesleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer | Node.js | Python | APIs | Authentication | High Traffic Systems
 
-Here are some ideas to get you started:
+Backend engineer with experience building scalable APIs, authentication services and subscription platforms. 
+Currently working on high traffic digital products focusing on checkout, paywall and user journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Node.js
+- Python
+- REST APIs
+- FastAPI
+- Express
+- SQL / MySQL / SQL Server
+- Authentication & Authorization
+- Microservices
+- High Traffic Systems
+
+## What I’m working on
+
+- Backend Authentication Service (Node.js)
+- FastAPI REST API (Python)
+- Checkout Microservice
+
+## Professional Experience
+
+Backend Engineer working on high traffic subscription platforms, authentication services and checkout flows.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/leoximenes
