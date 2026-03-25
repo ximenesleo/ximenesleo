@@ -2,30 +2,58 @@
 
 Senior Backend Engineer | Node.js | Python | APIs | Authentication | High Traffic Systems
 
-Backend engineer with experience building scalable APIs, authentication services and subscription platforms. 
+Backend engineer with experience building scalable APIs, authentication services and subscription platforms.  
 Currently working on high traffic digital products focusing on checkout, paywall and user journey.
+
+---
 
 ## Tech Stack
 
-- Node.js
-- Python
-- REST APIs
-- FastAPI
-- Express
-- SQL / MySQL / SQL Server
-- Authentication & Authorization
-- Microservices
-- High Traffic Systems
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Python](https://img.shields.io/badge/Python-Backend-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-009688)
+![REST API](https://img.shields.io/badge/API-REST-orange)
+![Authentication](https://img.shields.io/badge/Auth-JWT-red)
+![SQL](https://img.shields.io/badge/Database-SQL-lightgrey)
+![Microservices](https://img.shields.io/badge/Architecture-Microservices-purple)
+![High Traffic](https://img.shields.io/badge/System-High%20Traffic-black)
 
-## What I’m working on
+---
 
-- Backend Authentication Service (Node.js)
-- FastAPI REST API (Python)
-- Checkout Microservice
+## What I Do
 
-## Professional Experience
+- Backend API development
+- Authentication & Authorization services
+- Paywall and subscription platforms
+- Checkout and payment flows
+- High traffic systems
+- Microservices architecture
+- Performance optimization
+- Production debugging
 
-Backend Engineer working on high traffic subscription platforms, authentication services and checkout flows.
+---
+
+## GitHub Stats
+
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ximenesleo&show_icons=true&theme=default)
+
+---
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ximenesleo&layout=compact)
+
+---
+
+## Currently Focusing On
+
+- Node.js backend services
+- Python FastAPI APIs
+- Authentication services
+- Checkout microservices
+- Scalable architecture
+
+---
 
 ## Contact
 
