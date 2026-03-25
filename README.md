@@ -1,60 +1,66 @@
-# Leonardo Ximenes
+<h1 align="center">Leonardo Ximenes</h1>
 
+<h3 align="center">
 Senior Backend Engineer | Node.js | Python | APIs | Authentication | High Traffic Systems
+</h3>
 
-Backend engineer with experience building scalable APIs, authentication services and subscription platforms.  
-Currently working on high traffic digital products focusing on checkout, paywall and user journey.
+<p align="center">
+Building scalable backend services, authentication systems and subscription platforms
+</p>
 
 ---
 
 ## Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![Python](https://img.shields.io/badge/Python-Backend-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-API-009688)
-![REST API](https://img.shields.io/badge/API-REST-orange)
-![Authentication](https://img.shields.io/badge/Auth-JWT-red)
-![SQL](https://img.shields.io/badge/Database-SQL-lightgrey)
-![Microservices](https://img.shields.io/badge/Architecture-Microservices-purple)
-![High Traffic](https://img.shields.io/badge/System-High%20Traffic-black)
+<p>
+<img src="https://img.shields.io/badge/Node.js-Backend-green"/>
+<img src="https://img.shields.io/badge/Python-Backend-blue"/>
+<img src="https://img.shields.io/badge/FastAPI-API-009688"/>
+<img src="https://img.shields.io/badge/REST-API-orange"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-red"/>
+<img src="https://img.shields.io/badge/SQL-Database-lightgrey"/>
+<img src="https://img.shields.io/badge/Microservices-Architecture-purple"/>
+<img src="https://img.shields.io/badge/High%20Traffic-Systems-black"/>
+</p>
 
 ---
 
-## What I Do
+## About Me
 
-- Backend API development
-- Authentication & Authorization services
-- Paywall and subscription platforms
-- Checkout and payment flows
-- High traffic systems
-- Microservices architecture
-- Performance optimization
-- Production debugging
+Backend engineer with 7+ years of experience building scalable APIs, authentication services and subscription platforms.
+
+Currently working on high traffic digital products focusing on:
+
+- Authentication services  
+- Paywall systems  
+- Checkout & subscriptions  
+- API integrations  
+- Backend performance  
+- Distributed services  
 
 ---
 
 ## GitHub Stats
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ximenesleo&show_icons=true&theme=default)
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ximenesleo&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ximenesleo&layout=compact"/>
+</p>
 
 ---
 
-## Most Used Languages
+## What I'm Focused On
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ximenesleo&layout=compact)
-
----
-
-## Currently Focusing On
-
-- Node.js backend services
-- Python FastAPI APIs
-- Authentication services
-- Checkout microservices
-- Scalable architecture
+- Node.js Backend Architecture  
+- Python FastAPI Services  
+- Authentication & Authorization  
+- Checkout Microservices  
+- High Traffic Systems  
+- API Design  
 
 ---
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/leoximenes
+LinkedIn:  
+https://www.linkedin.com/in/leoximenes
